@@ -53,7 +53,7 @@
 		</div>
 		<div class="accordionBox">Live  ve Sandbox  Nedir ?</div>
 		<div class="panelBox">
-		    <p><stong>Live</stong> ve <strong>Sandbox</strong> kullanacağınız API türünü yansıtmaktadır.</p>
+		    <p><strong>Live</strong> ve <strong>Sandbox</strong> kullanacağınız API türünü yansıtmaktadır.</p>
 		    <ul>
 		        <li><strong>Live API</strong></li>
 		    </ul>
